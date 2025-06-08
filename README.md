@@ -21,7 +21,7 @@ Here's how you can get my video player up and running on your own machine. I've 
 ### Steps to Run My App:
 
 1.  **Grab the Code:**
-    git clone [YOUR_GITHUB_REPO_URL_HERE]
+    git clone [https://github.com/abhiramsu7/MEL-Labs-Video-Player-Internship]
     cd flutter_application_1
 
 2.  **Get the Dependencies:**
